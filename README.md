@@ -14,7 +14,3 @@ Electrical Engineering graduate | Robotics & Web Development enthusiast
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rflihmmm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rflihmmm&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rflihmmm&icon=0&color=0)](https://visitcount.itsvg.in)
