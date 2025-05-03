@@ -1,4 +1,5 @@
-![Header](./img/your-header-image-name.png)
+![Header](./img/github-header-image.png)
+
 Electrical Engineering graduate | Robotics & Web Development enthusiast
 
 ### 🌐 Socials:
